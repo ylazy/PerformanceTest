@@ -1,3 +1,3 @@
-# PerformanceTest V2 b gskinner
+# PerformanceTest V2 by gskinner
 
 Archived
